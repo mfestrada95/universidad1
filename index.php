@@ -15,3 +15,5 @@ require_once "modelos/ventas.modelo.php";
 
 $plantilla = new ControladorPlantilla();
 $plantilla -> ctrPlantilla();
+
+/*prueba*/
